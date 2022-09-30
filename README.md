@@ -1,6 +1,6 @@
 20220926 lev2_10 classList
 
-Link zur Seite: 
+Link zur Seite: https://weimingtay.github.io/20220926_003_lev2_10_classList/
 
 # Aufgabenstellung
 
