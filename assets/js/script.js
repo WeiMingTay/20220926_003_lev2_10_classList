@@ -1,11 +1,17 @@
 let showChange = document.getElementById("element");
-
+let text = document.querySelector("h1");
 function S() {
-    showChange.classList="small"
+	text.innerHTML = "small";
+	text.style.textTransform = "lowercase";
+	showChange.classList = "small";
 }
 function M() {
-    showChange.classList="middle"
+	text.innerHTML = "medium";
+	text.style.textTransform = "Capitalize";
+	showChange.classList = "middle";
 }
 function L() {
-    showChange.classList="bigCrazy"
+	text.innerHTML = "large";
+	text.style.textTransform = "Uppercase";
+	showChange.classList = "bigCrazy";
 }
